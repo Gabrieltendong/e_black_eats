@@ -1,0 +1,6 @@
+{
+    "testFiles": "features/**/*.feature",
+    "baseUrl": "https://www.eblackeats.fr",
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": []
+}
